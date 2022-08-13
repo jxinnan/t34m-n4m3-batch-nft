@@ -21,6 +21,6 @@ Runs the app in the development mode.
 
 Deployed on Jakartanet.
 
-Token Contract: `KT19cdiNNjj8HkKuNqeWhtEMpYkHnwGMXWLm`
+Token Contract: `KT1CTDr8PJ7DHpYAEQQjxVq7XJGLyD72HL2d`
 
-Marketplace Contract: `KT1KDAFEe93psUq1vzq7GUazJKdQiDNAcPsr`
+Marketplace Contract: `KT1FRExCLLeCqcitHXe5FdW49h6gGWWXuGNw`
