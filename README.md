@@ -6,10 +6,10 @@ Based on [NFT marketplace tutorial](https://github.com/NishantChandla/nft-market
 
 Within the repo, run:
 
-`npm install`
+### `npm install`
 
 Install necessary dependencies first.
 
-`npm start`
+### `npm start`
 
 Runs the app in the development mode.
